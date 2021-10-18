@@ -1,2 +1,1 @@
-# Dollar
-A Enconomy bot &amp; Fun bot That makes your server enjoyable
+To get dollar Soruce Code join [Discord server](https://discord.gg/FxHUfnZf)
